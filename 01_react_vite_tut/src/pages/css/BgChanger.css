@@ -1,0 +1,26 @@
+.bg-change-main {
+    position: absolute;
+    width: 99.9%;
+    height: 99%;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;   
+    
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.btn-cont{
+    position: absolute;
+    width: 90%;
+    height: 6%;  
+    bottom: 10%;
+    border: 1px solid black;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: white;
+}
